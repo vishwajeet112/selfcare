@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".addNote">
+
+ <EditText
+     android:id="@+id/content"
+     android:layout_width="match_parent"
+     android:layout_height="550dp"
+     android:layout_marginTop="35dp"
+     android:layout_marginBottom="10dp"
+     android:ems="10"
+     android:fontFamily="@font/poppins_medium"
+     android:gravity="top"
+     android:inputType="textMultiLine"
+     android:textColor="#115003" />
+
+ <Button
+     android:id="@+id/button"
+     android:layout_width="350dp"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:background="@drawable/button_diary"
+     android:fontFamily="@font/poppins_bold"
+     android:text="Save"
+     android:textColor="#115003"
+     android:textSize="30sp" />
+
+</LinearLayout>

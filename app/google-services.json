@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747642863265",
+    "firebase_url": "https://bullraise-1e68b-default-rtdb.firebaseio.com",
+    "project_id": "bullraise-1e68b",
+    "storage_bucket": "bullraise-1e68b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747642863265:android:93db70025f590b41027ae0",
+        "android_client_info": {
+          "package_name": "com.example.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747642863265-7bp89fvf9r71dcl2drot45e5uibbd7uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzt5w9ZxKOD51Sjub4wGFpNO01CUUmv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747642863265-7bp89fvf9r71dcl2drot45e5uibbd7uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/button.xml" value="0.166" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/gradient.xml" value="0.166" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_certificate_svgrepo_com.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_class_icon.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_gender_symbols_svgrepo_com.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/ic_profile_user_svgrepo_com.xml" value="0.166" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/drawable/text_view_backgroung.xml" value="0.324" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_anonymous_corner.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_circular_progressbar.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_dashboard1.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_exampledash.xml" value="0.132421875" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_forget_password.xml" value="0.353125" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_guuardian_sign_up.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_physical15.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_physical15_start.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_sign_up15.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_sign_up68.xml" value="0.23796033994334279" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_sign_up912.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_sign_up_college.xml" value="0.26484375" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_sign_up_role.xml" value="0.353125" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_signup.xml" value="0.2346368715083799" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/activity_student15.xml" value="0.17280453257790368" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/calender_cell.xml" value="0.2640625" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/class_spinner_layout.xml" value="0.2640625" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/gender_spinner_layout.xml" value="0.2640625" />
+        <entry key="..\:/AndroidStudio/Self/app/src/main/res/layout/spinner_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Git repo/Backup 20/SelfCareApp/SelfCareApp/app/src/main/res/layout/activity_mental_dashboard.xml" value="0.14990942028985507" />
+        <entry key="..\:/Git repo/Backup 20/SelfCareApp/SelfCareApp/app/src/main/res/layout/activity_workouts.xml" value="0.264" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_family_qa.xml" value="0.264" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_family_qajr.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_focus_qa.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_focus_qajr.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_friends_qa.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_friends_qajr.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_friendship_tips.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_insidephysical.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_interqa.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_interqajr.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_qa.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_relationships.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_relaxing_activities_qa.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_self_dilemma.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_self_dilemma_qajr.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_stress_management_qa.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Backup 20/jaibajrangbali/app/src/main/res/layout/activity_stress_management_qajr.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Bullraise/app/src/main/res/layout/activity_calendar.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Bullraise/app/src/main/res/layout/activity_insidephysical.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Bullraise/app/src/main/res/layout/activity_personalhygiene.xml" value="0.1" />
+        <entry key="..\:/Git repo/Bullraise/app/src/main/res/layout/activity_workout1.xml" value="0.23229166666666667" />
+        <entry key="..\:/Git repo/Bullraise/app/src/main/res/layout/activity_workouts.xml" value="0.2" />
+        <entry key="..\:/Git repo/Bullraise/app/src/main/res/layout/spinner_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/drawable/button.xml" value="0.199" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/drawable/button_diary.xml" value="0.198" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.2985" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/font/poppins_bold.xml" value="0.25925925925925924" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/font/poppins_medium.xml" value="0.25925925925925924" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_add_note.xml" value="0.25" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_anonymous_corner.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_breakfast.xml" value="0.18034447821681865" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_dashboard1.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_edit_note.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_focus_qa.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_focus_qajr.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_forget_password.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_guuardian_sign_up.xml" value="0.358695652173913" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_insidephysical.xml" value="0.25895316804407714" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_interqa.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_maindashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_mental_dashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_physical_dashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_sign_up15.xml" value="0.358695652173913" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_sign_up68.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_sign_up912.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_sign_up_college.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_sign_up_role.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_signup.xml" value="0.358695652173913" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_social_dashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_workout1.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/activity_workouts.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/app_bar_maindashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/content_maindashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/fragment_home.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/gender_spinner_layout.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/item_view.xml" value="0.5" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/nav_header_maindashboard.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/layout/spinner_layout.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/Bullraise/app/src/main/res/menu/option_menu.xml" value="0.3697916666666667" />
+        <entry key="..\:/GitRepo/aloo/app/src/main/res/layout/activity_family_qa.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/aloo/app/src/main/res/layout/activity_main.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/aloo/app/src/main/res/layout/activity_personalhygiene.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/aloo/app/src/main/res/layout/activity_physical_dashboard.xml" value="0.24954710144927536" />
+        <entry key="..\:/GitRepo/aloo/app/src/main/res/layout/fragment_login.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_after_focus.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_after_relaxing_activities.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_after_stress_management.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_family_qa.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_family_qajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_feedback_workout.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_feedback_workout_jr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_focus_qa.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_focus_qajr.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_forget_password.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_friends_qa.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_friends_qajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_friendship_tips.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_interqa.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_interqajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_lunch.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_mental_dashboard.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_peer_pressure.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_peer_pressure_qajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_physical15.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_qa.xml" value="0.33" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_realxing_activities_qajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_relaxing_activities.xml" value="0.1" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_relaxing_activities_qa.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_self_dilemma.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_self_dilemma_qajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_social_dashboard.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_stress_management.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_stress_management_qa.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_stress_management_qajr.xml" value="0.34646739130434784" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_workout1.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_workouts.xml" value="0.37083333333333335" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/activity_youtube.xml" value="0.3482789855072464" />
+        <entry key="..\:/GitRepo/jaibajrangbali/app/src/main/res/layout/fragment_home.xml" value="0.37083333333333335" />
+        <entry key="..\:/Github/SelfCareApp/app/src/main/res/layout/activity_workouts.xml" value="0.3625" />
+        <entry key="..\:/Github/aloo/app/src/main/res/layout/activity_workouts.xml" value="0.36666666666666664" />
+        <entry key="..\:/GithubRepo/Bullraise/app/src/main/res/layout/activity_breakfast.xml" value="0.22864583333333333" />
+        <entry key="..\:/GithubRepo/Bullraise/app/src/main/res/layout/activity_dinner.xml" value="0.264" />
+        <entry key="..\:/GithubRepo/Bullraise/app/src/main/res/layout/activity_lunch.xml" value="0.264" />
+        <entry key="..\:/GithubRepo/Bullraise/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable/button.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable/edit_text_border.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable/gradient.xml" value="0.226" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/layout/activity_forget_password.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/layout/activity_sign_up_role.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/layout/list_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self/app/src/main/res/layout/list_items.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self1/app/src/main/res/drawable/custom.xml" value="0.234" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self1/app/src/main/res/layout/activity_sign_up15.xml" value="0.11877394636015326" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self1/app/src/main/res/layout/content_maindashboard.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self1/app/src/main/res/layout/fragment_home.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/AndroidStudioProjects/Self1/app/src/main/res/menu/activity_main_drawer.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_add_note.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_anonymous_corner.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_breakfast.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_calendar.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_dashboard1.xml" value="0.4" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_friends_qa.xml" value="0.4" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_interqajr.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_mental_dashboard.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_peer_pressure.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_physical_dashboard.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_qa.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_sign_up15.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_sign_up_role.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_signup.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_social_dashboard.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_stress_management.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_stress_management_qa.xml" value="0.2453125" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_workout1.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/activity_workouts.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/SelfCareApp/app/src/main/res/layout/fragment_home.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/activity_dashboard1.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/activity_insidephysical.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/activity_mental_dashboard.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/app_bar_maindashboard.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/fragment_home.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/menu/activity_main_drawer.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/menu/maindashboard.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dpras/OneDrive/Documents/GitHub/aloo/app/src/main/res/menu/option_menu.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.self">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START" />
+        </intent>
+    </queries>
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Self"
+        tools:targetApi="31">
+        <activity
+            android:name=".Circular"
+            android:exported="false" />
+        <activity
+            android:name=".Director"
+            android:exported="false" />
+        <activity
+            android:name=".custom_disalog"
+            android:exported="false" />
+        <activity
+            android:name=".AddFeed"
+            android:exported="false" />
+        <activity
+            android:name=".SocialFeed"
+            android:exported="false" />
+        <activity
+            android:name=".AfterFriendsJR"
+            android:exported="false" />
+        <activity
+            android:name=".AfterFamilyJR"
+            android:exported="false" />
+        <activity
+            android:name=".YogaStart"
+            android:exported="false" />
+        <activity
+            android:name=".friendshipcontent"
+            android:exported="false" />
+
+        <activity
+            android:name=".yoga"
+            android:exported="false" />
+        <activity
+            android:name=".AfterFriends"
+            android:exported="false" />
+        <activity
+            android:name=".AfterFamily"
+            android:exported="false" />
+        <activity
+            android:name=".AfterInteractivity"
+            android:exported="false" />
+        <activity
+            android:name=".AfterSelfDilemma"
+            android:exported="false" />
+        <activity
+            android:name=".feedback_workoutJR"
+            android:exported="false" />
+        <activity
+            android:name=".AfterStressManagement"
+            android:exported="false" />
+        <activity
+            android:name=".AfterRelaxingActivities"
+            android:exported="false" />
+        <activity
+            android:name=".AfterFocus"
+            android:exported="false" />
+        <activity
+            android:name=".FeedbackWorkout"
+            android:exported="false" />
+        <activity
+            android:name=".FriendshipTips"
+            android:exported="false" />
+        <activity
+            android:name=".Relationships"
+            android:exported="false" />
+        <activity
+            android:name=".PeerPressureQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".InteractivityQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".FriendsQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".FamilyQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".SelfDilemmaQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".StressManagementQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".RealxingActivitiesQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".FocusQAJR"
+            android:exported="false" />
+        <activity
+            android:name=".PeerPressure"
+            android:exported="false" />
+        <activity
+            android:name=".RelaxingActivitiesQA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StressManagementQA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FocusQA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Dietchart"
+            android:exported="false"/>
+        <activity
+            android:name=".InteractivityQA"
+            android:exported="false" />
+        <activity
+            android:name=".SelfDilemmaQA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FriendsQA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".QA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FamilyQA"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SocialDashboard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MentalDashboard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CouncellorDashboard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".personalhygiene"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EventManager"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".editNote"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".addNote"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AnonymousCorner"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".lunch"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dinner"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".stepcounter"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".breakfast"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".workout1"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".workouts"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Insidephysical"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maindashboard"
+            android:exported="false"
+            android:label="@string/title_activity_maindashboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Self.NoActionBar" />
+        <activity
+            android:name=".MainActivity2"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dashboard1"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CircularProgressbar"
+            android:exported="false"
+            android:parentActivityName=".dashboard1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".physical1_5_start"
+            android:exported="false"
+            android:label=""
+            android:parentActivityName=".Physical1_5"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Physical1_5"
+            android:exported="false"
+            android:label=""
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".signUpCollege"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".signUp9_12"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".signUp6_8"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".signUp1_5"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GuuardianSignUp"
+            android:exported="false"
+            android:parentActivityName=".SignUpRole"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ForgetPassword"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SignUpRole"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".signup"
+            android:exported="false"
+            android:parentActivityName=".SignUpRole"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

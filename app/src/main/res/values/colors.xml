@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#af4784</color>
+    <color name="blue">#0000FF</color>
+    <color name="gray">#888</color>
+
+
+    	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__iphone_13_pro_max___1_ek2_color">#000000</color>
+	<color name="ellipse_2_color">#ffffff</color>
+	<color name="categories_color">#FFFFFF</color>
+	<color name="_bg__calendar_check_ek2_color">#26BBC4</color>
+	<color name="ellipse_73_color">#4AC0F3</color>
+	<color name="ellipse_94_color">#BCCCBF</color>
+	<color name="rectangle_25_color">#B639B1</color>
+</resources>
